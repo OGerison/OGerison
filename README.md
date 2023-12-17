@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Python, Power BI Projects, SQL, Excel Projects.
 - 🤔 I’m looking for help with SQL Projects.
 - 💬 Ask me about Power BI and Python.
-- 📫 How to reach me: https://twitter.com/GerisonOtimW
+- 📫 How to reach me: https://x.com/GerisonOtimW
 - ⚡ Fun fact: I love sports particularly Football, Basketball, Rugby and Formula 1.
