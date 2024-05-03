@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I love sports particularly Football, Basketball, Rugby and Formula 1.
 
 
-# Hi, I'm <GERISON>! 👋
+# Hi, I'm < GERISON >! 👋
 
 I am a data driven professional with a passion for analytics and innovation, eager to help organizations leverage data for success.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?OGerison=<OGerison>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<OGerison>'s Stats](https://github-readme-stats.vercel.app/api?username=<OGerison>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
