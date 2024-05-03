@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I love sports particularly Football, Basketball, Rugby and Formula 1.
 
 
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm <GERISON>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a data driven professional with a passion for analytics and innovation, eager to help organizations leverage data for success.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?OGerison=<OGerison>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
